@@ -36,7 +36,7 @@ int main(void) {
     LCD_Init();
 
     // LCD'ye "Furkan" yaz
-    LCD_String("eem_Furkan");
+    LCD_String("Furkan");
 
     while (1) {
         // Sürekli çalışacak bir loop
